@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Alice English School</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f5f9ff;
+            color: #333;
+        }
+        header {
+            background: #0b6efd;
+            color: white;
+            padding: 25px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 32px;
+        }
+        section {
+            padding: 20px;
+            text-align: center;
+        }
+        .box {
+            background: white;
+            margin: 15px auto;
+            padding: 20px;
+            border-radius: 10px;
+            max-width: 600px;
+            box-shadow: 0 2px 8px #ccc;
+        }
+        h2 {
+            color: #0b6efd;
+        }
+        .btn {
+            display: inline-block;
+            background: #0b6efd;
+            color: white;
+            padding: 12px 25px;
+            border-radius: 5px;
+            text-decoration: none;
+        }
+        footer {
+            background: #222;
+            color: white;
+            text-align: center;
+            padding: 15px;
+        }
+    </style>
+</head>
+<body>
+<header>
+    <h1>ALICE ENGLISH SCHOOL</h1>
+    <p>Playgroup To 10th Standard</p>
+    <p>Admission Open 2026-27</p>
+</header>
+<section>
+<div class="box">
+    <h2>Welcome to Alice English School</h2>
+    <p>
+    Organised and Managed by Kanyadevi Education Society (Regd)
+    </p>
+    <p>
+    We provide quality education with a caring and comfortable learning environment.
+    </p>
+</div>
+<div class="box">
+    <h2>Our Facilities</h2>
+    <p>✓ AC Classroom</p>
+    <p>✓ Digital Classroom</p>
+    <p>✓ AI Lab</p>
+    <p>✓ Affordable Fees</p>
+    <p>✓ Activity Based Learning</p>
+</div>
+<div class="box">
+    <h2>Admission Details</h2>
+    <p>Classes: Playgroup to 10th</p>
+    <p>Session: 2026-27</p>
+    <p>Free Admission | No Donation</p>
+</div>
+<div class="box">
+    <h2>Contact Us</h2>
+    <p>
+    Address: Mohite Patil Nagar, SRA, Mankhurd,<br>
+    Mumbai - 400043
+    </p>
+    <p>
+    Contact: 8850762679
+    </p>
+    <a class="btn" href="tel:8850762679">
+    Call Now
+    </a>
+</div>
+</section>
+<footer>
+    © 2026 Alice English School. All Rights Reserved.
+</footer>
+</body>
+</html>
